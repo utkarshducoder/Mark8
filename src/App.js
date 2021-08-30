@@ -10,7 +10,8 @@ var emojiDictionary = {
   "⚡": "High Voltage",
   "😍": "Smiling Face with Heart-Eyes",
   "☠": "Danger",
-  "😡": "Anger Face"
+  "😡": "Anger Face",
+  "⌚": "Watch emoji"
 };
 
 var emojisWeknow = Object.keys(emojiDictionary);
